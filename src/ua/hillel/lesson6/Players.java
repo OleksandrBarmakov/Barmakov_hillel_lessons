@@ -5,7 +5,7 @@ public class Players {
     int age;
 
     public void playerJoin(){
-        System.out.println("Игрок присоеденился: " + playerName);
+//        System.out.println("Игрок присоеденился: " + playerName);
         }
     }
 
